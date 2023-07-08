@@ -1,2 +1,2 @@
 # RestAssuredAPIAutomationFramework
-Autometion petstore.swagger.io API using Java and gherkin language.
+Automation petstore.swagger.io API using Java and gherkin language.
